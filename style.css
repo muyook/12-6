@@ -1,0 +1,12 @@
+.container {
+  width: 50%;
+  height: 50%;
+}
+
+#chart1 {
+  margin: 50px;
+}
+
+#chart2 {
+  margin: 100px;
+}
